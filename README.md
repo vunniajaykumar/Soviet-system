@@ -18,11 +18,11 @@ Installing
 
 #### 1. Python 
 
-Python can be obtained from [Here](https://www.python.org "target="_blank).
+Python can be obtained from [Here](https://www.python.org).
     
 #### 2. Mysql
 
-Mysql can be obtained as a pakage from Apache friends [here](https://www.apachefriends.org/download.html){:target="_blank"} .
+Mysql can be obtained as a pakage from Apache friends [here](https://www.apachefriends.org/download.html).
     
 #### 3. Django Framework
 	
@@ -102,4 +102,4 @@ There is a in-biult development server in Django which can be run using below co
 	python manage.py runserver
 ```
 
-and go to [127.0.0.1:8000](127.0.0.1:8000){:target="_blank"} to view our website.
+and go to [127.0.0.1:8000](127.0.0.1:8000) to view our website.
