@@ -54,7 +54,7 @@ Once you created your project open project folder and copy the folders named hom
 Open setting.py located in projectname/projectname/settings.py folder and add below lines in __INSTALLED_APPS__ .
 
 ```
-	'home',
+    'home',
     'login',
     'signup',
 ```
@@ -64,7 +64,7 @@ Open setting.py located in projectname/projectname/settings.py folder and add be
 Create database and user in phpmyadmin and replace the below code in __DATABASE__ section
 
 ```
-	'ENGINE': 'django.db.backends.mysql',
+    'ENGINE': 'django.db.backends.mysql',
     'NAME': 'databsename',
     'USER': 'username',
     'PASSWORD': 'password',
@@ -78,7 +78,7 @@ replace the databasename,username,password with your databasename,username,passw
 Making migrations basically means creating all of the required tables in databse it can be performed using below command in __SHELL__
 
 ```
-	python manage.py makemigrations
+    python manage.py makemigrations
     python manage.py migrate
 ```
 
