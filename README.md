@@ -22,7 +22,7 @@ Python can be obtained from [Here](https://www.python.org target="_blank").
     
 #### 2. Mysql
 
-Mysql can be obtained as a pakage from Apache friends [here](https://www.apachefriends.org/download.html){:target="_blank"}.
+Mysql can be obtained as a pakage from Apache friends [here](https://www.apachefriends.org/download.html){:target="_blank"} .
     
 #### 3. Django Framework
 	
