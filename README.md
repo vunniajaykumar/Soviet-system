@@ -102,4 +102,4 @@ There is a in-biult development server in Django which can be run using below co
 	python manage.py runserver
 ```
 
-and go to [127.0.0.1:8000](127.0.0.1:8000) to view our website.
+and go to [127.0.0.1:8000](http://127.0.0.1:8000) to view our website.
