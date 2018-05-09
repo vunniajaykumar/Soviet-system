@@ -18,7 +18,7 @@ Installing
 
 #### 1. Python 
 
-Python can be obtained from [Here](https://www.python.org){:target="_blank"}.
+Python can be obtained from [Here](https://www.python.org target="_blank").
     
 #### 2. Mysql
 
